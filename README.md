@@ -1,8 +1,8 @@
 # Snow-Mountain
 My first project at General Assembly.
 
-#Goal
+# Goal
 Code out the final product from a provided design template.
 
-#Built with 
-HTML & CSS
+# Built with 
+HTML & CSS.
