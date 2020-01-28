@@ -8,4 +8,4 @@ Code out the final product from a provided design template.
 HTML & CSS.
 
 ## Time Dedicated
-15+ hours
+12+ hours
